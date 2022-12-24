@@ -1,0 +1,10 @@
+input{
+    height: 30px;
+    width: 500px;
+    position: absolute;
+    left: 160px;
+    top: 15px;
+    outline: none;
+    border-radius: 50px;
+    border: none;
+}

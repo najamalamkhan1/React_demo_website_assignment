@@ -1,0 +1,11 @@
+.searchbutton{
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    left: 562px;
+    top: 16px;
+    border-radius: 50px;
+    background-image: linear-gradient(180deg,green,rgba(165, 42, 42, 0.819),black);
+    color: white;
+    font-size: large;
+}

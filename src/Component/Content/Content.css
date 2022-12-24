@@ -1,0 +1,169 @@
+.cont_container{
+    height: 200px;
+    width: 300px;
+}
+.cont_img{
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 5px 5px 5px rgba(255, 255, 255, 0.732);
+}
+.img1{
+    height: 200px;
+    width: 300px;
+    border-radius: 5px;
+}
+.img1:hover{
+    height: 220px;
+    width: 330px;
+    box-shadow: 1px 5px 5px 5px rgba(255, 255, 255, 0.732);
+}
+.cont_text1{
+    height: 335px;
+    width: 300px;
+    margin: 20px;
+    text-align: justify;
+    border: 1px solid white;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.436);
+    border-radius: 5px;
+    box-shadow: 1px 5px 5px 5px rgba(255, 255, 255, 0.732);
+}
+.cont_text1 h4{
+    height: 1px;
+    text-align: center;
+    font-size: larger;
+}
+/* Content 2nd image and text */
+.cont_text2{
+    height: 335px;
+    width: 300px;
+    margin: 20px;
+    text-align: justify;
+    border: 1px solid white;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.436);
+    border-radius: 5px;
+    box-shadow: 1px 5px 5px 5px rgba(255, 255, 255, 0.732);
+    position: relative;
+    left: 520px;
+    bottom: 620px;
+}
+.cont_text2 h4{
+    height: 1px;
+    text-align: center;
+    font-size: larger;
+}
+.img2{
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 5px 5px 5px rgba(255, 255, 255, 0.732);
+    position: relative;
+    left: 520px;
+    bottom: 597px;
+    z-index: 0;
+}
+
+.img3{
+    height: 200px;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 1px 5px 5px 5px rgba(255, 255, 255, 0.732);
+    position: relative;
+    position: relative;
+    left: 1020px;
+    bottom: 1197px;
+}
+.cont_text3 h4{
+    height: 1px;
+    text-align: center;
+    font-size: larger;
+}
+.cont_text3{
+    height: 335px;
+    width: 300px;
+    margin: 20px;
+    text-align: justify;
+    border: 1px solid white;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.436);
+    border-radius: 5px;
+    box-shadow: 1px 5px 5px 5px rgba(255, 255, 255, 0.732);
+    position: relative;
+    left: 1000px;
+    bottom: 1197px;
+}
+/* ontent 1 buttons */
+.buy_button .buy{
+    height: 35px;
+    width: 300px;
+    background-image: linear-gradient(70deg,red,rgb(170, 7, 7));
+    border-radius: 15px;
+    border: 1px solid white;
+    color: aliceblue;
+}
+.addtocart_button .addtocart{
+    height: 35px;
+    width: 300px;
+    margin: auto;
+    background-image: linear-gradient(70deg,red,orange);
+    border-radius: 15px;
+    border: 1px solid white;
+    color: aliceblue;
+}
+
+/* Content 2 Buttons */
+.buy_button2 .buy2{
+    height: 35px;
+    width: 300px;
+    background-image: linear-gradient(70deg,red,rgb(170, 7, 7));
+    border-radius: 15px;
+    border: 1px solid white;
+    color: aliceblue;
+}
+.addtocart_button2 .addtocart2{
+    height: 35px;
+    width: 300px;
+    margin: auto;
+    background-image: linear-gradient(70deg,red,orange);
+    border-radius: 15px;
+    border: 1px solid white;
+    color: aliceblue;
+}
+.prize1 .prizeofitem1{
+    height: 5px;
+    text-decoration: line-through;
+}
+.footer_container{
+    height: 400px;
+    width: 1349px;
+    background-color: rgba(0, 0, 0, 0.609);
+    position: relative;
+    bottom: 1100px;
+}
+.itemno1 h5{
+    text-align: center;
+    font-size: larger;
+    color: white;
+    text-decoration: underline;
+}
+.footer_subscription input{
+    height: 30px;
+    width: 500px;
+    margin: 200px;
+    outline: auto;
+}
+.footer_button .subscribe_button{
+    height: 35px;
+    width: 100px;
+    margin: 155px;
+    position: relative;
+    left: 710px;
+    border-radius: 15px;
+    background-image: linear-gradient(140deg, red,brown,red);
+    color: white;
+    outline: auto;
+}
